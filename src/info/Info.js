@@ -45,7 +45,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "franciscoerramuspe91@gmail.com"
         }
     ],
     socials: [
@@ -78,7 +78,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Francisco. I'm an aspiring Software Engineer. I studied CompSci at Troy University, in which I played tennis for, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
