@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACWA,AAAA,SAAS,AAAC,CACR,UAAU,CAAE,CAAC,CAAC,MAAK,CAAC,IAAI,CAAC,eAAe,CACzC,ADXD,AAAA,KAAK,AAAC,CACJ,KAAK,CCFA,OAAO,CDGb,AAED,AAAA,MAAM,AAAC,CACL,KAAK,CCDC,OAAO,CDEd,AAED,AAAA,OAAO,AAAC,CACN,OAAO,CAAE,CAAC,CASX,AARC,MAAM,MAAM,MAAM,MAAM,SAAS,EAAE,KAAK,EAF1C,AAAA,OAAO,AAAC,CAGJ,OAAO,CAAE,CAAC,CAOb,CAVD,AAME,OANK,CAML,EAAE,AAAC,CACD,MAAM,CAAE,CAAC,CACT,WAAW,CAAE,IAAI,CAClB",
+    "sources": [
+        "../../src/components/about/About.module.scss",
+        "../../src/variables.modules.scss"
+    ],
+    "names": [],
+    "file": "About.module.min.css"
+}

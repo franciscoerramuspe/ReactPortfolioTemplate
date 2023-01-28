@@ -23,20 +23,24 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
+    firstName: "Francisco",
+    lastName: "Erramuspe",
+    initials: "fe", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '🧉',
+            text: 'fueled by mate'
         },
         {
-            emoji: '🌎',
+            emoji: '🇺🇾',
+            text: 'Born in Uruguay'
+        },
+        {
+            emoji: '🇺🇸',
             text: 'based in the US'
         },
         {
@@ -55,17 +59,17 @@ export const info = {
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/francisco.erramuspe/",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/franciscoerramuspe",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/francisco-erramuspe/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
@@ -78,7 +82,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Francisco. I'm an aspiring Software Engineer. I studied CompSci at Troy University, in which I played tennis for, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "I was born in Uruguay, a small country in South America. At the age of 18, I had the possibility to emigrate to the US with an academic-athletic scholarship. I started my journey at Troy University (Alabama). Here, I'm pursuing a Computer Science degree expecting to graduate in May of 2023, looking forward to follow a Software Engineer career path.",
     skills:
         {
             proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
@@ -87,15 +91,15 @@ export const info = {
     ,
     hobbies: [
         {
-            label: 'reading',
-            emoji: '📖'
+            label: 'lifting',
+            emoji: '🏋🏻‍♂️'
         },
         {
-            label: 'theater',
-            emoji: '🎭'
+            label: 'tennis',
+            emoji: '🎾'
         },
         {
-            label: 'movies',
+            label: 'vlogging',
             emoji: '🎥'
         },
         {
