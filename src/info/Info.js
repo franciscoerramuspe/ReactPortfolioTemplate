@@ -45,7 +45,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "SSoftware Engineer Intern at Above and Beyond Studios"
         },
         {
             emoji: "📧",
