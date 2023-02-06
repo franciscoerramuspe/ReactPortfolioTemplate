@@ -80,8 +80,8 @@ export const info = {
     bio: "I was born in Uruguay, a small country in South America. At the age of 18, I had the possibility to emigrate to the US with an academic-athletic scholarship. I started my journey at Troy University (Alabama). Here, I'm pursuing a Computer Science degree expecting to graduate in May of 2023, looking forward to follow a Software Engineer career path.",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'python'],
+            exposedTo: ['nodejs', 'MongoDB', 'MySQL', 'vue.js']
         }
     ,
     hobbies: [
