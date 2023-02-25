@@ -21,7 +21,6 @@ So let's get started! Some of the info below is pretty self-explanatory, like 'f
 that might not be obvious right off the bat :) I recommend looking at the template example live using "npm start" to get an idea
 of what each of the values mean.
  */
-
 export const info = {
     firstName: "Francisco",
     lastName: "Erramuspe",
@@ -107,8 +106,8 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            live: "https://cripto-price-tracker.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/franciscoerramuspe/cripto-react", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
