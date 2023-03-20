@@ -112,8 +112,8 @@ export const info = {
         },
         {
             title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            live: "https://expense-tracker-react-two.vercel.app/",
+            source: "https://github.com/franciscoerramuspe/expense-tracker-react",
             image: mock2
         },
         {
