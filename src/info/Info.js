@@ -36,7 +36,7 @@ export const info = {
         },
         {
             emoji: '🇺🇾',
-            text: 'Born in Uruguay'
+            text: 'born in Uruguay'
         },
         {
             emoji: '🇺🇸',
@@ -44,7 +44,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Software Engineer at StartQA"
+            text: "software engineer at StartQA"
         },
         {
             emoji: "📧",
