@@ -1,9 +1,9 @@
 import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
+// import mock3 from "../img/mock3.png"
+// import mock4 from "../img/mock4.png"
+// import mock5 from "../img/mock5.png"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */
@@ -79,8 +79,8 @@ export const info = {
     bio: "I was born in Uruguay, a small country in South America. At the age of 18, I had the possibility to emigrate to the US with an academic-athletic scholarship. I started my journey at Troy University (Alabama). Here, I'm pursuing a Computer Science degree expecting to graduate in May of 2023, looking forward to follow a Software Engineer career path.",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'python'],
-            exposedTo: ['nodejs', 'MongoDB', 'MySQL', 'vue.js']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'python', 'tailwind'],
+            exposedTo: ['node.js', 'MongoDB', 'MySQL', 'vue.js']
         }
     ,
     hobbies: [
@@ -116,23 +116,23 @@ export const info = {
             source: "https://github.com/franciscoerramuspe/expense-tracker-react",
             image: mock2
         },
-        {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
-        },
-        {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock4
-        },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
-        }
+        // {
+        //     title: "Project 3",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock3
+        // },
+        // {
+        //     title: "Project 4",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock4
+        // },
+        // {
+        //     title: "Project 5",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock5
+        // }
     ]
 }
