@@ -76,11 +76,11 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "I was born in Uruguay, a small country in South America. At the age of 18, I had the possibility to emigrate to the US with an academic-athletic scholarship. I started my journey at Troy University (Alabama). Here, I'm pursuing a Computer Science degree expecting to graduate in May of 2023, looking forward to follow a Software Engineer career path.",
+    bio: "I was born in Uruguay, a small country in South America. At the age of 18, I had the possibility to emmigrate to the US with an academic-athletic scholarship. I started my journey at Troy University (Alabama). Here, I graduated with a Computer Science degree in May of 2023. Currently, I am pursuing a Master of Software Engineering at Monmouth University, expecting to graduate in December of 2024.",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'python', 'tailwind'],
-            exposedTo: ['node.js', 'MongoDB', 'MySQL', 'vue.js']
+            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html', 'css', 'python', 'tailwind', 'aws', 'node.js','mongoDB', 'MySQL'],
+            exposedTo: ['Google Cloud', 'vue.js']
         }
     ,
     hobbies: [
