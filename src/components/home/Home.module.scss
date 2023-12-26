@@ -47,3 +47,43 @@ a:hover {
   60% { transform: rotate( 0.0deg) }
   100% { transform: rotate( 0.0deg) }
 }
+
+.avatar {
+  border-radius: 50%;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1); // Example shadow
+  background: linear-gradient(45deg, #6DC8F3, #73A1F9); // Example gradient
+  width: 100%; // Use 100% of the parent's width
+  max-width: 300px; // Maximum size of the image
+  height: auto; // Maintain aspect ratio
+  @media only screen and (max-width: 600px) {
+    max-width: 150px; // Smaller max size for smaller screens
+  }
+}
+
+:global(.fa-instagram):hover {
+  color: $purple-red; 
+}
+
+:global(.fa-github):hover {
+  color: $purple; 
+}
+
+:global(.fa-linkedin):hover {
+  color: $blue;
+}
+
+:global(.fa-youtube):hover {
+  color: $red; 
+}
+
+.social-icon {
+  display: inline-block;
+  margin: 0 5px; // Add some space around the icon
+  color: $dark; // Default icon color
+  transition: transform 0.3s, color 0.3s; // Smooth transition for transform and color
+
+  &:hover {
+    transform: scale(1.1); // Icon grows to 110% of its size
+    color: $purple; // This will be overridden by specific social media styles above if present
+  }
+}
